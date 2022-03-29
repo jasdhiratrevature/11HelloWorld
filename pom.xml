@@ -62,7 +62,7 @@
         <archive>
           <manifest>
             <addClasspath>true</addClasspath>
-            <classpathPrefix>lib/</classpathPrefix>
+            <classpathPrefix>libs/</classpathPrefix>
             <mainClass>com.jasdhir.javalin.HelloWorld</mainClass>
           </manifest>
         </archive>
