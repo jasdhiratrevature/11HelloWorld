@@ -83,7 +83,7 @@
                 <archive>
                 <manifest>
                     <mainClass>
-                        com.baeldung.executable.ExecutableMavenJar
+                        com.jasdhir.javalin.HelloWorld
                     </mainClass>
                 </manifest>
                 </archive>
